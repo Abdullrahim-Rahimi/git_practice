@@ -7,7 +7,17 @@ const messages = [
     'How are you?',
     'Have a great day!',
     'Keep up the good work!',
-    'You got this!'
+    'You got this!',
+    'You are amazing!',
+    'You are awesome!',
+    'You are beautiful!',
+    'You are loved!',
+    'You are strong!',
+    'You are unique!',
+    'You are wonderful!',
+    'You can do it!',
+    'You rock!',
+    'You will succeed!'
 ];
 
 // Function to generate a random message
